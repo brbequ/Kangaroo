@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo.csproj", "{F71BD8AB-9BCB-4563-8466-CC01B959ED18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71BD8AB-9BCB-4563-8466-CC01B959ED18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71BD8AB-9BCB-4563-8466-CC01B959ED18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71BD8AB-9BCB-4563-8466-CC01B959ED18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71BD8AB-9BCB-4563-8466-CC01B959ED18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354924A4-E30F-4762-AEBA-16B698115259}
+	EndGlobalSection
+EndGlobal
